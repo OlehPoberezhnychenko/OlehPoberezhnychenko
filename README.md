@@ -1,99 +1,14 @@
-{
-  "version": "1.0.0",
-  "exportedAt": "2025-11-30T12:26:00.249Z",
-  "profile": {
-    "title": "Oleh Poberezhnychenko",
-    "subtitle": "A passionate data analyst ",
-    "currentWork": "",
-    "currentLearn": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "ama": "",
-    "contact": "olehpobereznichenko@gmail.com",
-    "funFact": "",
-    "visitorsBadge": false,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": false,
-    "githubStats": false,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": false,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": false,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "",
-    "blog": "",
-    "resume": ""
-  },
-  "social": {
-    "github": "OlehPoberezhnychenko",
-    "dev": "",
-    "linkedin": "https://www.linkedin.com/in/oleh-poberezhnychenko-a02516364/",
-    "codepen": "",
-    "stackoverflow": "",
-    "kaggle": "",
-    "codesandbox": "",
-    "fb": "",
-    "instagram": "",
-    "twitter": "",
-    "dribbble": "",
-    "behance": "",
-    "medium": "",
-    "youtube": "",
-    "codechef": "",
-    "hackerrank": "",
-    "codeforces": "",
-    "leetcode": "",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "",
-    "discord": "",
-    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "cassandra",
-    "mariadb",
-    "matplotlib",
-    "mssql",
-    "mysql",
-    "numpy",
-    "oracle",
-    "pandas",
-    "postgresql",
-    "python",
-    "pytorch",
-    "seaborn",
-    "sqlite"
-  ]
-}
+# Hi 👋, I'm Oleh Poberezhnychenko
+
+### A passionate data analyst 
+
+- 📫 How to reach me **olehpobereznichenko@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/OlehPoberezhnychenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="OlehPoberezhnychenko" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/oleh-poberezhnychenko-a02516364/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oleh-poberezhnychenko-a02516364/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cassandra" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cassandra" alt="cassandra" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
