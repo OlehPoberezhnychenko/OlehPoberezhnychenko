@@ -1,33 +1,52 @@
-# Hi there, I'm [Your Name]! 👋
-### 📊 Data Analyst | SQL & Python Enthusiast
+# Hi there, I'm [Your Name] 👋
+### Data Analyst | SQL & Python Specialist
 
-I am a Data Analyst focused on helping businesses make better decisions through data. I specialize in cleaning messy datasets, building SQL queries, and creating clear dashboards.
-
----
-
-### 🛠 Tools & Skills
-* **Data Querying:** SQL (PostgreSQL, MySQL), BigQuery
-* **Analysis:** Python (Pandas, NumPy), Excel (Pivot Tables, VLOOKUP)
-* **Visualization:** Power BI, Tableau
-* **Soft Skills:** Problem-Solving, Data Storytelling, Business English
+*Transforming complex data into clear, actionable insights for business growth.*
 
 ---
 
-### 📈 Featured Projects
-**1. [Project Name: e.g., Sales Revenue Analysis]**
-* *Goal:* Analyze 12 months of sales data to identify top-performing regions.
-* *Tech:* SQL Window Functions, Power BI.
-* *Result:* Identified a 15% revenue gap in Q3.
-* [Link to Project >](#)
+### 👨‍💻 About Me
+I am an aspiring Data Analyst passionate about solving real-world problems. I specialize in building data pipelines, performing complex SQL analysis, and creating dashboards that answer "why" things happen.
 
-**2. [Project Name: e.g., Customer Churn Prediction]**
-* *Goal:* Clean and organize customer data to find why users leave.
-* *Tech:* Python, Pandas.
-* *Result:* Cleaned 10,000+ rows of messy data for analysis.
-* [Link to Project >](#)
+* **Current Focus:** Mastering Advanced SQL (Window Functions), Python ETL, and Business English for Data Analytics.
+* **Goal:** To help US-based companies optimize their decision-making through data.
 
 ---
 
-### 📫 Connect with Me
-* [LinkedIn](Insert_Your_LinkedIn_URL_Here)
-* [Portfolio / Email](mailto:your_email@example.com)
+### 🛠 Tech Stack
+
+| Category | Tools & Skills |
+| :--- | :--- |
+| **Data Analysis** | Python (Pandas, NumPy), SQL (Window Functions, CTEs, SQLite/PostgreSQL) |
+| **Visualization** | Power BI, Seaborn, Matplotlib, Excel (Advanced) |
+| **Engineering** | ETL Pipelines, Data Cleaning, Git/GitHub, Database Design |
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. [Retail Sales Performance Analysis](Link_To_Your_Repo_Here)
+*Business Goal: Identify top-selling regions and underperforming products to optimize inventory.*
+
+* **Tech:** SQL (PostgreSQL), Power BI, Excel.
+* **Key Achievement:** Analyzed 50,000+ sales records using complex SQL queries (Window Functions) to rank regional performance.
+* **Result:** Identified a 15% dip in sales for the "South" region, providing clear data for targeted marketing interventions.
+
+#### 2. [Customer Churn Prediction](Link_To_Your_Repo_Here)
+*Business Goal: Understand why customers are leaving to improve retention rates.*
+
+* **Tech:** Python, Pandas, Matplotlib.
+* **Key Achievement:** Cleaned a raw dataset of 10,000 users, handling null values and formatting inconsistencies.
+* **Result:** Visualized churn trends showing that month-to-month users have a 40% higher churn rate than annual subscribers.
+
+---
+
+### 🎓 Education & Certification
+* **SQL & Data Analysis** (Self-Taught / Course Name)
+* **English Language** (B1/B2 Level - Actively Improving)
+
+---
+
+### 📬 Connect with me
+* **Email:** olehpoberezhnychenko@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/oleh-poberezhnychenko-a02516364/
