@@ -52,5 +52,5 @@ I am a results-driven Data Analyst with over 2 years of experience in **the tele
 ---
 
 ### 📬 Connect with me
-* **Email:** olehpoberezhnychenko@gmail
+* **Email:** olehpoberezhnychenko@gmail.com
 * **LinkedIn:** [Oleh Poberezhnychenko](https://www.linkedin.com/in/oleh-poberezhnychenko-a02516364/)
