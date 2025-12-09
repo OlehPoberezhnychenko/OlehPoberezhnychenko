@@ -1,15 +1,15 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Oleh 👋
 ### Data Analyst | SQL & Python Specialist
 
 *Transforming complex data into clear, actionable insights for business growth.*
 
 ---
 
-### 👨‍💻 About Me
-I am an aspiring Data Analyst passionate about solving real-world problems. I specialize in building data pipelines, performing complex SQL analysis, and creating dashboards that answer "why" things happen.
+* ### 👨‍💻 About Me
+I am a results-driven Data Analyst with over 2 years of experience in telecom sector. I specialize in building end-to-end data pipelines, optimizing SQL queries for performance, and creating automated dashboards that save time and drive revenue.
 
-* **Current Focus:** Mastering Advanced SQL (Window Functions), Python ETL, and Business English for Data Analytics.
-* **Goal:** To help US-based companies optimize their decision-making through data.
+* **Current Focus:** Advanced Data Engineering (ETL Automation) and Predictive Analytics.
+* **Goal:** Helping US-based companies optimize marketing spend and improve operational efficiency through data.
 
 ---
 
@@ -41,9 +41,13 @@ I am an aspiring Data Analyst passionate about solving real-world problems. I sp
 
 ---
 
-### 🎓 Education & Certification
-* **SQL & Data Analysis** (Self-Taught / Course Name)
-* **English Language** (B1/B2 Level - Actively Improving)
+## 🏢 Professional Experience
+
+**Data Analyst @ SmartTel** *(2022 – 2024)*
+* Analyzed customer behavior using **SQL** to support marketing decision-making.
+* Cleaned and transformed large datasets (50k+ rows) for weekly sales reporting.
+* Built interactive dashboards in **Power BI** that reduced manual reporting time by 40%.
+* Contributed to **5–10% sales growth** by identifying underperforming regions.
 
 ---
 
