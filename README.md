@@ -6,11 +6,10 @@
 ---
 
 ### 👨‍💻 About Me
-I am a results-driven Data Analyst with over 2 years of experience in **the telecom sector** . I specialize in building end-to-end data pipelines, optimizing SQL queries for performance, and creating automated dashboards that save time and drive revenue.
+I am a results-driven Data Analyst with over 2 years of experience in **the telecom sector**. I specialize in building end-to-end data pipelines, optimizing SQL queries for performance, and creating automated dashboards that save time and drive revenue.
 
 * **Current Focus:** Advanced Data Engineering (ETL Automation) and Predictive Analytics.
 * **Goal:** Helping US-based companies optimize marketing spend and improve operational efficiency through data.
-
 
 ---
 
@@ -26,14 +25,14 @@ I am a results-driven Data Analyst with over 2 years of experience in **the tele
 
 ### 🚀 Featured Projects
 
-#### 1. [Retail Sales Performance Analysis](Link_To_Your_Repo_Here)
+#### 1. [Retail Sales Performance Analysis]
 *Business Goal: Identify top-selling regions and underperforming products to optimize inventory.*
 
 * **Tech:** SQL (PostgreSQL), Power BI, Excel.
 * **Key Achievement:** Analyzed 50,000+ sales records using complex SQL queries (Window Functions) to rank regional performance.
 * **Result:** Identified a 15% dip in sales for the "South" region, providing clear data for targeted marketing interventions.
 
-#### 2. [Customer Churn Prediction](Link_To_Your_Repo_Here)
+#### 2. [Customer Churn Prediction]
 *Business Goal: Understand why customers are leaving to improve retention rates.*
 
 * **Tech:** Python, Pandas, Matplotlib.
@@ -44,7 +43,7 @@ I am a results-driven Data Analyst with over 2 years of experience in **the tele
 
 ## 🏢 Professional Experience
 
-**Data Analyst @ SmartTel** *(2022 – 2024)*
+**Data Analyst @ [INSERT_REAL_COMPANY_NAME]** *(2022 – 2024)*
 * Analyzed customer behavior using **SQL** to support marketing decision-making.
 * Cleaned and transformed large datasets (50k+ rows) for weekly sales reporting.
 * Built interactive dashboards in **Power BI** that reduced manual reporting time by 40%.
@@ -53,5 +52,5 @@ I am a results-driven Data Analyst with over 2 years of experience in **the tele
 ---
 
 ### 📬 Connect with me
-* **Email:** olehpoberezhnychenko@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/oleh-poberezhnychenko-a02516364/
+* **Email:** olehpoberezhnychenko@gmail
+* **LinkedIn:** [Oleh Poberezhnychenko](https://www.linkedin.com/in/oleh-poberezhnychenko-a02516364/)
