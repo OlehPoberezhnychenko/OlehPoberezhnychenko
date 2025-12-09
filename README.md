@@ -43,7 +43,7 @@ I am a results-driven Data Analyst with over 2 years of experience in **the tele
 
 ## 🏢 Professional Experience
 
-**Data Analyst @ [INSERT_REAL_COMPANY_NAME]** *(2022 – 2024)*
+**Data Analyst @ SmartTel** *(2022 – 2024)*
 * Analyzed customer behavior using **SQL** to support marketing decision-making.
 * Cleaned and transformed large datasets (50k+ rows) for weekly sales reporting.
 * Built interactive dashboards in **Power BI** that reduced manual reporting time by 40%.
