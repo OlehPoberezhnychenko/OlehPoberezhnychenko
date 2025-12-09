@@ -1,5 +1,5 @@
 # Hi there, I'm [Your Name]! 👋
-### 📊 Junior Data Analyst | SQL & Python Enthusiast
+### 📊 Data Analyst | SQL & Python Enthusiast
 
 I am a Data Analyst focused on helping businesses make better decisions through data. I specialize in cleaning messy datasets, building SQL queries, and creating clear dashboards.
 
