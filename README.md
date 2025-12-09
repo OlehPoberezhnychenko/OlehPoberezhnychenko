@@ -11,7 +11,6 @@ I am a results-driven Data Analyst with over 2 years of experience in **the tele
 * **Current Focus:** Advanced Data Engineering (ETL Automation) and Predictive Analytics.
 * **Goal:** Helping US-based companies optimize marketing spend and improve operational efficiency through data.
 
----
 
 ---
 
