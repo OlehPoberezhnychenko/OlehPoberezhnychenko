@@ -5,11 +5,13 @@
 
 ---
 
-* ### 👨‍💻 About Me
-I am a results-driven Data Analyst with over 2 years of experience in telecom sector. I specialize in building end-to-end data pipelines, optimizing SQL queries for performance, and creating automated dashboards that save time and drive revenue.
+### 👨‍💻 About Me
+I am a results-driven Data Analyst with over 2 years of experience in **the telecom sector** . I specialize in building end-to-end data pipelines, optimizing SQL queries for performance, and creating automated dashboards that save time and drive revenue.
 
 * **Current Focus:** Advanced Data Engineering (ETL Automation) and Predictive Analytics.
 * **Goal:** Helping US-based companies optimize marketing spend and improve operational efficiency through data.
+
+---
 
 ---
 
