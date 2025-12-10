@@ -53,12 +53,6 @@ I am a results-driven Data Analyst with experience in the **telecom sector** (@S
 
 ---
 
-### 📊 GitHub Stats
-![Oleh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlehPoberezhnychenko&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlehPoberezhnychenko&layout=compact&theme=radical)
-
----
-
 ### 📬 Connect with me
 * **Email:** olehpoberezhnychenko@gmail.com
 * **LinkedIn:** [Oleh Poberezhnychenko](https://www.linkedin.com/in/oleh-poberezhnychenko-a02516364/)
