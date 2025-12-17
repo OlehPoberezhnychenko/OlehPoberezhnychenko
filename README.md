@@ -17,8 +17,8 @@ I am a results-driven Data Analyst with experience in the **telecom sector** (@S
 
 | Category | Tools & Skills |
 | :--- | :--- |
-| **Data Analysis** | **Python** (Pandas, NumPy), **SQL** (Window Functions, CTEs, PostgreSQL) |
-| **Visualization** | Power BI, Seaborn, Matplotlib, Excel (Advanced) |
+| **Data Analysis** |  **SQL** (Window Functions, CTEs, PostgreSQL, M-SQL),Python: basic data analysis (learning) |
+| **Visualization** | Power BI, Excel (Advanced) |
 | **Engineering** | ETL Pipelines, Data Cleaning, Git/GitHub, Database Design |
 
 ---
