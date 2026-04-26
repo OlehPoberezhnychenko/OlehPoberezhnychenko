@@ -1,58 +1,75 @@
-# Hi there, I'm Oleh 👋
-### Data Analyst | SQL & Python Specialist
+# 📊 E-Commerce Customer Retention & Cohort Analysis
 
-*Data Analyst with 2+ years of experience transforming raw data into actionable business insights.*
+![Power BI Dashboard](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
+## 📌 Executive Summary
 
-### 👨‍💻 About Me
-I am a results-driven Data Analyst with experience in the **telecom sector** (@SmartTel). I specialize in building end-to-end data pipelines, performing complex SQL analysis (Window Functions, CTEs), and creating automated dashboards that save time and drive revenue.
+This project demonstrates an end-to-end data analytics workflow designed to solve a critical e-commerce business problem: **identifying customer churn and calculating Lifetime Value (LTV)**.
 
-* **Current Focus:** Advanced Customer Segmentation (RFM), Pricing Strategy Analysis, and ETL Automation.
-* **Goal:** Helping US-based companies optimize marketing spend and improve customer retention through data.
-
----
-
-### 🛠 Tech Stack
-
-| Category | Tools & Skills |
-| :--- | :--- |
-| **Data Analysis** |  **SQL** (Window Functions, CTEs, PostgreSQL, M-SQL),Python: basic data analysis (learning) |
-| **Visualization** | Power BI, Excel (Advanced) |
-| **Engineering** | ETL Pipelines, Data Cleaning, Git/GitHub, Database Design |
+By utilizing **Python (Pandas)** for data preprocessing, **SQL (BigQuery)** for complex cohort modeling via Window Functions, and **Power BI** for interactive visualization, this project provides actionable insights to optimize marketing retention strategies.
 
 ---
 
-### 🚀 Featured Projects
+## 🎯 Business Problem
 
-#### 1. [🇧🇷 Olist E-Commerce Logistics & RFM Analysis](https://github.com/OlehPoberezhnychenko/Retail_Sales_Performance_SQL)
-*Business Goal: Optimize logistics bottlenecks and identify high-value customers for a Brazilian marketplace.*
+The e-commerce platform was experiencing a high drop-off rate after the first purchase. The marketing team needed to understand:
 
-* **Tech:** Advanced SQL (Window Functions), Python, SQLite.
-* **Key Achievement:** Processed **100,000+ orders** to build an RFM (Recency, Frequency, Monetary) segmentation model.
-* **Result:** Identified that the top 5% of "Champion" customers drive 30% of revenue, and pinpointed a 40% delivery delay in remote regions.
-* [**View Project >**](https://github.com/OlehPoberezhnychenko/Retail_Sales_Performance_SQL)
-
-#### 2. [📡 Telco Customer Churn Prediction](https://github.com/OlehPoberezhnychenko/Customer_Churn_Prediction)
-*Business Goal: Reduce customer attrition by identifying "at-risk" users early.*
-
-* **Tech:** Python (Pandas, Seaborn), Statistical Analysis.
-* **Key Achievement:** Analyzed **7,000+ customer records** to find the root causes of churn.
-* **Result:** Discovered that **Month-to-Month contracts** have a 15x higher churn risk and calculated the exact annual revenue loss due to attrition.
-* [**View Project >**](https://github.com/OlehPoberezhnychenko/Customer_Churn_Prediction)
+1. **Retention Rate:** How many users return in the months following their first purchase?
+2. **Customer Lifetime Value (LTV):** Which geographic and product cohorts generate the most long-term revenue?
+3. **Churn Drivers:** Are specific acquisition channels or product categories leading to faster churn?
 
 ---
 
-## 🏢 Professional Experience
+## 🛠️ Methodology & Tech Stack
 
-**Data Analyst @ SmartTel** *(2022 – 2024)*
-* Analyzed customer behavior using **SQL** to support marketing decision-making for 50k+ users.
-* Cleaned and transformed large datasets for weekly sales reporting, reducing errors by **15%**.
-* Built interactive dashboards in **Power BI** that reduced manual reporting time by **40%**.
-* Contributed to **5–10% sales growth** by identifying underperforming regions and recommending inventory adjustments.
+### 1. Data Cleaning & Preprocessing (Python / Pandas)
+
+* Processed a raw transactional dataset of **500,000+ rows**.
+* Handled missing values, standardized date formats, and removed duplicated transaction IDs.
+* *See code in:* `/2_Python_Analysis/data_cleaning.ipynb`
+
+### 2. Cohort Modeling (Advanced SQL)
+
+* Utilized **CTEs (Common Table Expressions)** to identify the month of first purchase for every user.
+* Applied **Window Functions** (`ROW_NUMBER()`, `LEAD()`) to calculate the month-over-month retention matrix.
+* Aggregated revenue to calculate cumulative LTV per cohort.
+* *See code in:* `/1_SQL_Queries/cohort_analysis.sql`
+
+### 3. Data Visualization (Power BI)
+
+* Connected the cleaned, structured dataset to Power BI.
+* Built dynamic DAX measures for calculating Retention %, Churn Rate, and Average Order Value (AOV).
+* Created an interactive dashboard allowing stakeholders to filter cohorts by Country, Acquisition Channel, and Date.
 
 ---
 
-### 📬 Connect with me
-* **Email:** olehpoberezhnychenko@gmail.com
-* **LinkedIn:** [Oleh Poberezhnychenko](https://www.linkedin.com/in/oleh-poberezhnychenko-a02516364/)
+## 💡 Key Business Insights
+
+Based on the analysis, the following actionable insights were delivered to the stakeholders:
+
+1. **The "Month-1 Cliff":** The highest drop-off occurs between Month 0 and Month 1, where **68% of users do not return**. Implementing an automated Day-14 email retention sequence could recover an estimated 5-8% of these users.
+2. **High-Value Geographies:** Customers from **Germany** exhibit a 15% higher LTV compared to the UK, despite a higher initial Customer Acquisition Cost (CAC). **Recommendation:** Shift 20% of the Meta Ads budget from the UK to Germany.
+3. **Product-Driven Retention:** Users whose first purchase was in the "Electronics" category have the highest 6-month retention rate (34%), whereas "Accessories" buyers rarely return (12%).
+
+---
+
+## 📸 Dashboard Preview
+
+*(Replace this text with an image of your actual Power BI Dashboard once completed)*
+
+> `<img src="link_to_your_image.png" width="800">`
+
+---
+
+## 🚀 How to Run This Project
+
+1. Clone this repository: `git clone https://github.com/OlehPoberezhnychenko/cohort-analysis.git`
+2. Run the Jupyter Notebook to see the data cleaning process.
+3. The SQL scripts can be run directly in BigQuery or PostgreSQL.
+4. Open the `.pbix` file using Power BI Desktop to interact with the dashboard.
+
+---
+
+*Created by Oleh Poberezhnychenko | Data Analyst*
